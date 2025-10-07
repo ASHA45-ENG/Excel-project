@@ -1,4 +1,4 @@
-## README NOTE – Excel Assignment
+## README.md – Excel Assignment
 
 ### Overview
 This Excel workbook contains data cleaning, transformation, and analysis tasks completed as part of the Excel Assignment.  
